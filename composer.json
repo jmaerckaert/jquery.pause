@@ -1,6 +1,6 @@
 {
     "name": "jmaerckaert/jquery.pause",
-    "description": "Libraries jQuery HoverIntent for Drupal slideshow module",
+    "description": "Libraries jQuery Pause for Drupal slideshow module",
     "type": "drupal-library",
     "homepage": "https://github.com/jmaerckaert/jquery.pause",
     "authors": [
